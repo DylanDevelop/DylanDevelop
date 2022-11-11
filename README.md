@@ -5,8 +5,6 @@ Diseñado pensando en usuarios con conocimientos limitados a la hora de crear se
 
 Una interfaz de usuario responsive bajo Bootstrap para una navegación fácil para los usuarios.
 
-![PanelGif](https://user-images.githubusercontent.com/34619567/93478584-1ec69800-f8fc-11ea-9319-51a590a30313.gif)
-
 ## Comenzando 🚀
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu servidor.
